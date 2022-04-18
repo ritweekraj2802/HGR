@@ -15,3 +15,4 @@ Recognizing "Hand Gestures" using OpenCV and Python.
 2. `python recognize.py`
 3. `python recognize-image.py`
 
+Demo Link :-<a href="https://vimeo.com/700582202" > Demo </a>
